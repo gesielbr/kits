@@ -8,9 +8,9 @@
 }
 
 .kit-1 {
-  -webkit-border-radius: 40px 40px 40px 40px;
-  -moz-border-radius: 40px 40px 40px 40px;
-  border-radius: 40px 40px 40px 40px;
+  -webkit-border-radius: 20px 20px 20px 20px;
+  -moz-border-radius: 20px 20px 20px 20px;
+  border-radius: 20px 20px 20px 20px;
   overflow: hidden;
   border: 1px solid #040c26;
   background-color: #040c26;
@@ -90,7 +90,7 @@
 .kits-mobile .desconto {
   font-weight: bold;
   font-size: 15px;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.7rem;
   line-height: 100%;
 }
 
@@ -99,7 +99,7 @@
 }
 
 .kits-mobile .valor-antigo {
-  font-size: 15px;
+  font-size: 14px;
   margin: 0;
   line-height: 100%;
   /* margin-bottom: 1rem; */
@@ -111,7 +111,7 @@
   font-size: 26px;
   margin: 0;
   line-height: 100%;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.7rem;
 }
 
 .kits-mobile .parcelamento {
@@ -120,4 +120,26 @@
   text-transform: uppercase;
   margin: 0;
   line-height: 100%;
+}
+
+.kits-mobile .botao {
+  font-size: 20px;
+}
+
+.kits-mobile .oferta-expira {
+  color: red;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin: 0;
+  margin-left: -10px;
+}
+
+.kits-mobile .horario {
+  color: red;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 32px;
+  margin-left: -10px;
+  margin-bottom: 0;
 }
