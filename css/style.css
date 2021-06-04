@@ -3,6 +3,7 @@
   font-size: 32px;
   text-transform: uppercase;
   padding: 1rem 0;
+  margin-bottom: 0;
   line-height: 100%;
 }
 
@@ -41,7 +42,7 @@
   text-transform: uppercase;
   line-height: 100%;
   margin: 0;
-  margin-top: 0.4rem;
+  margin-top: 0.2rem;
 }
 
 .kits-arredondados .valor-antigo,
@@ -59,7 +60,7 @@
   font-weight: bold;
   margin-top: 0;
   line-height: 100%;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
 }
 
 .botao {
@@ -82,7 +83,7 @@
 
 .kits-mobile h1 {
   font-weight: bold;
-  font-size: 16px;
+  font-size: 12px;
   margin-bottom: 1rem;
 }
 
@@ -91,7 +92,7 @@
 }
 
 .kits-mobile .valor-antigo {
-  font-size: 10px;
+  font-size: 12px;
   margin: 0;
   line-height: 0;
   margin-bottom: 1rem;
@@ -100,7 +101,7 @@
 .kits-mobile .valor-novo {
   font-weight: bold;
   color: #34c322;
-  font-size: 22px;
+  font-size: 24px;
   margin: 0;
   line-height: 0;
   margin-bottom: 1rem;
